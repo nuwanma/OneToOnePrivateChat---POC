@@ -8,7 +8,7 @@ using System.Web;
 namespace SignalRPrivateChat.ChatHelper
 {
     [HubName("chatHub")]
-    ///testing
+    ///testing 123
     public class ChatHub : Hub
     {
         #region---Data Members---
